@@ -1,0 +1,17 @@
+body{
+    background-color: cyan;
+    font-size: 25px;
+}
+#score{
+    margin-left: 10px;
+}
+#timer{
+    margin-left: 1250px;
+}
+#ss{
+    margin-right:10px;
+    float:right;
+}
+h1{
+    background-color: white;
+}
